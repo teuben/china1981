@@ -1,0 +1,55 @@
+x = overladen
+c = contact informatie hebben we
+? = unknown
+
+List of members of the excursion:
+Stafmembers :
+12,c - Prof. Dr.N.M. Hugenholtz, Theoretical Physics
+0, c- Dr. G.S. Shostak - Astronomy
+9, x -Prof. Dr. G.E.F. Thomas - Mathematics
+2, x -Prof. Dr. H. de Waard - Experimental Physics
+7, x -Prof. Dr. A. van der Woude - Nuclear Physics
+
+Students:
+15, c-Harm Bakker, Math '77, LinkedIn, 
+12.5 c-Jos Birken, Math '75, LinkedIn, Singapore
+20 c-Ed Brinksma, Math '75, LinkedIn
+10 ?-Henk Corporaal, Phys '74,h.corporaal@tue.nl, henk_corporaal@hotmail.com
+21 ?-Hans van Hateren, Phys '75* j.h.van.hateren@rug.nl
+16 ?-Martijn Houtman, Math '73,http://www.informationdynamics.nl/mhoutman/
+13 c-Paul Huygen, Phys '72, LinkedIn
+22 ?-Matthijs Kuiper, Math '77, LinkedIn
+24 ?-Jeroen Langevoort, Phys '73, LinkedIn
+23 ?-Bert Metz, Phys'76m (Albert Metz), LinkedIn
+19 ?-Sietse van Netten, Phys, '75, s.m.van.netten@rug.nl, s.m.van.netten@gmail.com  .
+17 ?-Doeke Oostra, Phys '77, info@etulipa.com
+14 c-Jan Willem Polderman, Math '75, LinkedIn
+18 ?-Sido Sinnema, Phys '77, sido.sinnema@tatasteeleurope.com
+6 ?-Stefan Spekreijse, Math '76, LinkedIn,stefanspekrijese@sevenwolden.nl
+6 c-Folkert Tangerman, Math '77, Hartford CT, fmtangerman@gmail.com
+3 c-Peter Teuben, Astr '76, Greenbelt MD,  teuben@gmail.com   teuben@umd.edu
+8 ?-Bart Westra, Math '76, ??
+4 c-Tamme-Siert Wierenga, Phys '76, tamme.wierenga@gmail.com
+2 ?=Henk Ziemerink, Math '74, IBM..., LinkedIn?
+
+
+Itinerary
+
+Teuben Itinerary:
+(Groningen-London-Hongkong-Guangzhou-Shanghai-Nanjing-Hofei-Beijing-Moscow-Groningen)
+
+Thu March 27   me leaving for Groningen
+Fri March 28   Groningen - Vlissingen - London
+Wed Apr 8      we were in Nanjing
+Thu Apr 16     we were in Beijing
+Tue Apr 21     leaving Beijing for Moscow
+Mon Apr 27     calling home from MOscow
+Wed Apr 29     beck home, eating chinese food
+
+      March 1981              April 1981
+Su Mo Tu We Th Fr Sa    Su Mo Tu We Th Fr Sa
+  1  2  3  4  5  6  7              1  2  3  4
+  8  9 10 11 12 13 14     5  6  7  8  9 10 11
+15 16 17 18 19 20 21    12 13 14 15 16 17 18
+22 23 24 25 26 27 28    19 20 21 22 23 24 25
+29 30 31                26 27 28 29 30
