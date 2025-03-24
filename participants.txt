@@ -15,14 +15,14 @@ Students:
 12.5 c-Jos Birken, Math '75, LinkedIn, Singapore
 20 c-Ed Brinksma, Math '75, LinkedIn
 10 ?-Henk Corporaal, Phys '74,h.corporaal@tue.nl, henk_corporaal@hotmail.com
-21 ?-Hans van Hateren, Phys '75* j.h.van.hateren@rug.nl
+23 ?-Hans van Hateren, Phys '75* j.h.van.hateren@rug.nl
 16 ?-Martijn Houtman, Math '73,http://www.informationdynamics.nl/mhoutman/
 13 c-Paul Huygen, Phys '72, LinkedIn
 22 ?-Matthijs Kuiper, Math '77, LinkedIn
 24 ?-Jeroen Langevoort, Phys '73, LinkedIn
-23 ?-Bert Metz, Phys'76m (Albert Metz), LinkedIn
+21 ?-Bert Metz, Phys'76m (Albert Metz), LinkedIn
 19 ?-Sietse van Netten, Phys, '75, s.m.van.netten@rug.nl, s.m.van.netten@gmail.com  .
-17 ?-Doeke Oostra, Phys '77, info@etulipa.com
+17 ?-Doeke Oostra, Phys '77, info@etulipa.com, doeke.oostra@gmail.com
 14 c-Jan Willem Polderman, Math '75, LinkedIn
 18 ?-Sido Sinnema, Phys '77, sido.sinnema@tatasteeleurope.com
 6 ?-Stefan Spekreijse, Math '76, LinkedIn,stefanspekrijese@sevenwolden.nl
