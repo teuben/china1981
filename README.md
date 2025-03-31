@@ -1,17 +1,17 @@
 # FMF China quadrennial trip 1981.
 
 5 faculty and 20 students embarked on the quadrennial large-FMF-trip visiting 5 cities
-in China.
+in PR China.
 
 
 ## Itinary
 
 There were several groups that travelled to Hongkong, the start of our trip. The longest
-one was the Groningen - London - Hongong - Beijing - Moscow - Groningen, taking 33 days.
+one was the Groningen - London - Hongkong - Beijing - Moscow - Groningen, taking 33 days.
 
-* Fri March 27:   depart from Groningen for Londen via Vlissingen by train/boat/train
+* Fri March 27:   early departure from Groningen for Londen via Vlissingen by train/boat/train
 
-* Sun March 29:   LGW - BAH - HKH
+* Sun March 29:   LGW - BAH - HKH  about 17 hours flight (we didn't leave the plane in BAH)
 
 * Wed Apr 1:  Kowloon station -> Guangzhou (Canton)
 
